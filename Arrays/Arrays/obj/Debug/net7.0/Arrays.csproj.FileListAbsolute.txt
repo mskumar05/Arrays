@@ -1,0 +1,15 @@
+/Users/sainani/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays
+/Users/sainani/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/sainani/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/sainani/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/sainani/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/sainani/Projects/Arrays/Arrays/obj/Debug/net7.0/ref/Arrays.dll
